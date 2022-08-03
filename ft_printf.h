@@ -6,14 +6,13 @@
 /*   By: suhkim <suhkim@student.42seoul.kr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/03 16:58:23 by suhkim            #+#    #+#             */
-/*   Updated: 2022/08/03 18:42:30 by suhkim           ###   ########.fr       */
+/*   Updated: 2022/08/03 20:45:20 by suhkim           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
-# include <stddef.h>
 # include <unistd.h>
 # include <stdarg.h>
 
